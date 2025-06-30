@@ -107,6 +107,7 @@ MTL-FinBERT/
 │
 ├── README.md        # 解释文档(英文)
 ├── README_zh.md     # 解释文档(中文) <---- Now
+├── requirements.txt # Python 依赖
 └── images           # 插图
 ```
 ---
