@@ -19,8 +19,8 @@
 - 机器学习：LR、RF + (TF-IDF + 文本来源向量)  
 - 深度学习：FinBERT、 MTL-FinBERT(Ours)  
 
-![概念流程图](images/ch/概念流程图.png)
-![技术流程图](images/ch/技术流程图.png)
+<img src="images/ch/概念流程图.png" alt="概念流程图" width="1000"/>
+<img src="images/ch/技术流程图.png" alt="技术流程图" width="1000"/>
 ---
 ## 🚀 快速开始
 
