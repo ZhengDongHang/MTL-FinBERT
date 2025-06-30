@@ -107,7 +107,8 @@ MTL-FinBERT/
 │   └── Investment_portfolio/          # Empirical analysis and investment portfolio strategy
 │
 ├── README.md        # Documentation (English) <---- Now
-├── README_zh.md     # Documentation (Chinese) 
+├── README_zh.md     # Documentation (Chinese)
+├── requirements.txt # Python dependency
 └── images           # Illustrations
 ```
 ---
