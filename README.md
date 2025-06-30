@@ -106,8 +106,8 @@ MTL-FinBERT/
 │   ├── Emotion_Extraction/            # Stock-level sentiment measurement based on transfer learning
 │   └── Investment_portfolio/          # Empirical analysis and investment portfolio strategy
 │
-├── README.md        # Documentation (English)
-├── README_zh.md     # Documentation (Chinese) <---- Now
+├── README.md        # Documentation (English) <---- Now
+├── README_zh.md     # Documentation (Chinese) 
 └── images           # Illustrations
 ```
 ---
