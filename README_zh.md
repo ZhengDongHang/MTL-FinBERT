@@ -1,6 +1,8 @@
 # MTL-FinBERT  
 ---
-
+欢迎查看项目文档，本项目支持中英文，请选择语言:  
+(Welcome to view the project documentation🎉🎉🎉. This project supports both Chinese and English. Please select language):  
+[English Documentation](README.md) | [中文文档](README_zh.md)
 
 ## 📌 项目简介
 
