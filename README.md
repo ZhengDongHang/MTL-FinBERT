@@ -120,10 +120,10 @@ The second is a stock-level dataset, containing sentiment texts corresponding to
 
 ### Macro Market Dataset:
 {  
-    "date": "2015-03-16",                // Date (string)  
-    "index": [2.2649, 2.4329, 3.5572],  // Indicator vector (example: 3-dimensional float vector)  
-    "guba_data": ["text1", "text2", ...],  // List of stock forum sentiment texts  
-    "weibo_data": ["text1", "text2", ...]  // List of Weibo sentiment texts  
+    "date": "2015-03-16",                      // Date (string)  
+    "index": [2.2649, 2.4329, 3.5572],         // Indicator vector (example: 3-dimensional float vector)  
+    "guba_data": ["text1", "text2", ...],      // List of stock forum sentiment texts  
+    "weibo_data": ["text1", "text2", ...]      // List of Weibo sentiment texts  
 }  
 
 - `date`: Timestamp, accurate to the day  
