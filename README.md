@@ -63,10 +63,10 @@ python B_Result_Analysis/evaluate_models_every_texts.py # error evaluation by in
 C: Empirical Analysis and D: Investment Portfolio are mainly ipynb files, run them under Jupyter  
 
 ---
-## 📂 项目结构
+## 📂 Project Structure
 
 ```
-Multi-Task-Learning/
+MTL-FinBERT/
 ├── A_Emo_Measure/                 # Sentiment measurement module
 │   ├── bert-base-chinese/         # Chinese BERT pretrained model
 │   ├── data/                      # Sentiment model training and prediction data (using pessimistic estimation) (Input)
@@ -101,11 +101,14 @@ Multi-Task-Learning/
 │   ├── Data_Mine/                     # Data mining — extracting structural information from sentiment results
 │   └── Statistical_test/              # Statistical tests on four types of macroeconomic variables
 │
-└── D_Investment_Portfolio/            # Investment portfolio module
-    ├── data/                          # Investment data (Input)
-    ├── Emotion_Extraction/            # Stock-level sentiment measurement based on transfer learning
-    └── Investment_portfolio/          # Empirical analysis and investment portfolio strategy
-
+├── D_Investment_Portfolio/            # Investment portfolio module
+│   ├── data/                          # Investment data (Input)
+│   ├── Emotion_Extraction/            # Stock-level sentiment measurement based on transfer learning
+│   └── Investment_portfolio/          # Empirical analysis and investment portfolio strategy
+│
+├── README.md        # Documentation (English)
+├── README_zh.md     # Documentation (Chinese) <---- Now
+└── images           # Illustrations
 ```
 ---
 
